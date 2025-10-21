@@ -1,46 +1,54 @@
 This is BibTeX, Version 0.99d (TeX Live 2025/Homebrew)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
-The style file: plain.bst
+The style file: plainurl.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
-You've used 2 entries,
-            2118 wiz_defined-function locations,
-            509 strings with 4371 characters,
-and the built_in function-call counts, 663 in all, are:
-= -- 58
-> -- 46
+Warning--entry type for "apple2025" isn't style-file defined
+--line 23 of file references.bib
+You've used 3 entries,
+            2943 wiz_defined-function locations,
+            653 strings with 5714 characters,
+and the built_in function-call counts, 1170 in all, are:
+= -- 122
+> -- 31
 < -- 0
-+ -- 18
-- -- 16
-* -- 52
-:= -- 128
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 14
++ -- 11
+- -- 8
+* -- 47
+:= -- 185
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 13
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 21
-empty$ -- 40
-format.name$ -- 16
-if$ -- 126
+cite$ -- 3
+duplicate$ -- 29
+empty$ -- 125
+format.name$ -- 8
+if$ -- 313
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 10
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 38
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 10
 quote$ -- 0
-skip$ -- 16
+skip$ -- 88
 stack$ -- 0
-substring$ -- 16
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 23
+swap$ -- 5
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
+type$ -- 12
 warning$ -- 0
-while$ -- 5
-width$ -- 3
-write$ -- 24
+while$ -- 7
+width$ -- 4
+write$ -- 39
+(There was 1 warning)

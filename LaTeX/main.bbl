@@ -1,13 +1,21 @@
 \begin{thebibliography}{1}
 
-\bibitem{medley2k2020}
-Lukas Faber, Sandro Luck, Damian Pascual, Andreas Roth, Gino Brunner, and Roger Wattenhofer.
-\newblock Medley2k: {A} dataset of medley transitions.
-\newblock {\em CoRR}, abs/2008.11159, 2020.
+\bibitem{apple2025}
+Apple.
+\newblock {WWDC 2025 --- June 9}.
+\newblock Video; Timestamp: [00:30:47].
+\newblock URL: \url{https://www.youtube.com/watch?v=0_DjDdfqtUE&t=1847s}.
+
+\bibitem{spotify2025}
+{Spotify}.
+\newblock {Mix Your Favorite Playlists Seamlessly by Adding Your Own Transitions}.
+\newblock Spotify Newsroom press release, \url{https://newsroom.spotify.com/}, 2025.
+\newblock Published August 19, 2025. Accessed on 2025-10-21.
 
 \bibitem{vandeveire2018automateddj}
 Len Vande~Veire and Tijl De~Bie.
 \newblock From raw audio to a seamless mix: creating an automated dj system for drum and bass.
 \newblock {\em EURASIP Journal on Audio, Speech, and Music Processing}, 2018(1):13, 2018.
+\newblock URL: \url{https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-018-0134-8}, \href {https://doi.org/10.1186/s13636-018-0134-8} {\path{doi:10.1186/s13636-018-0134-8}}.
 
 \end{thebibliography}

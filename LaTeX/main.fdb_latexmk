@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1761042586.19409 "main.aux" "main.bbl" "main" 1761054235.79729 0
-  "./references.bib" 1760782374.82502 3310 aa37213cecb061db86cd0c79fecac239 ""
-  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/base/plain.bst" 1741388039 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1761054235.67582 877 81fe59aa1c71953269d3b70ec6e044b0 "pdflatex"
+["bibtex main"] 1761071233.8193 "main.aux" "main.bbl" "main" 1761071234.2792 0
+  "./references.bib" 1761070954.72346 4270 317901a5d50682df03e10b063420e8bb ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/urlbst/plainurl.bst" 1741388039 33495 46cfb45e24a877059f9f7e142c7fc61c ""
+  "main.aux" 1761071234.16679 922 ee87d753b17ab940736d70116a087d75 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761054235.32011 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761054235.79739 0
-  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761054235.09274 1623 1e782d7d7749d5e3b18d54858178f57f ""
+["pdflatex"] 1761071233.87381 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761071234.2793 0
+  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761071233.35626 2307 f4254439e07859092f7abbe8083846bb ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1741388039 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -24,12 +24,14 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1741388039 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1741388039 1120 8b7d695260f3cff42e636090a8002094 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1741388039 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1741388039 768 1321e9409b4137d6fb428ac9dc956269 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1741388039 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1741388039 32080 340ef9bf63678554ee606688e7b5339d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1741388039 35752 024fb6c41858982481f6968b5fc26508 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1741388039 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1741388039 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1741388039 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1741388039 31099 c85edf1dd5b9e826d67c9c7293b6786c ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1741388039 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1741388039 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1741388039 40635 c40361e206be584d448876bba8a64a3b ""
@@ -77,11 +79,11 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "main.aux" 1761054235.67582 877 81fe59aa1c71953269d3b70ec6e044b0 "pdflatex"
-  "main.bbl" 1761042586.24074 521 e580f367b75fb9aca9b237657e83567e "bibtex main"
-  "main.out" 1761054235.67612 551 c34a342565c7da3bb3cc87fa1530708e "pdflatex"
-  "main.tex" 1761054235.09274 1623 1e782d7d7749d5e3b18d54858178f57f ""
-  "main.toc" 1761054235.67627 346 1d84b8268817bce672349ee9582bc8c6 "pdflatex"
+  "main.aux" 1761071234.16679 922 ee87d753b17ab940736d70116a087d75 "pdflatex"
+  "main.bbl" 1761071233.87243 937 b25649fcdfd5ecda847c5b6eb1d96d63 "bibtex main"
+  "main.out" 1761071234.16724 551 c34a342565c7da3bb3cc87fa1530708e "pdflatex"
+  "main.tex" 1761071233.35626 2307 f4254439e07859092f7abbe8083846bb ""
+  "main.toc" 1761071234.16738 346 1d84b8268817bce672349ee9582bc8c6 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

@@ -2,6 +2,7 @@
 \usepackage{graphicx}
 \usepackage[a4paper, margin=1.5cm]{geometry}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{url}
 
 \title{DT2470 Music Informatics Final Project}
 \date{October 2025}
@@ -53,7 +54,11 @@
 %% INTRODUCTION
 \section{Introduction}
 
-Relevant study (only numbers, no audio) \cite{medley2k2020}.foijweoijfewo
+Earlier this year, Apple Music introduced their new "AutoMix" feature, which automatically creates smooth transition mixes between songs in a playlist. \cite{apple2025}. No public information is available regarding the technical details of this feature, except that it uses Apple Intelligence to apply time stretching and beat matching techniques.
+
+A few months later, Spotify launched their own audio mixing function, allowing users to manually create DJ-style transitions between tracks in their playlists from one tempo and key pairing into another \cite{spotify2025}.
+
+This project attempts to achieve similar functionality by extracting features from audio tracks and using MIR techniques to create smooth transitions between songs.
 
 %% FEATURE EXTRACTION
 \section{Feature Extraction}
@@ -69,7 +74,7 @@ Relevant study (only numbers, no audio) \cite{medley2k2020}.foijweoijfewo
 \section{Conclusion}
 
 %% REFERENCES
-\bibliographystyle{plain}
+\bibliographystyle{plainurl}
 \bibliography{references}
 
 \end{document}
