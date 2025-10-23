@@ -5,3 +5,5 @@
 *.wav
 *.m4a
 *.pkl
+
+!output.wav
