@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[14pt]{extarticle}
 \usepackage{graphicx}
 \usepackage[a4paper, margin=1.5cm]{geometry}
 \usepackage[colorlinks=true, allcolors=blue]{hyperref}
@@ -12,28 +12,28 @@
     \begin{minipage}[t]{0.24\textwidth}
         \centering
         Matei Cananau \\
-        MSc Machine Learning \\
+        MSc in ML \\
         \href{mailto:cananau@kth.se}{cananau@kth.se}
     \end{minipage}
     \hfill
     \begin{minipage}[t]{0.24\textwidth}
         \centering
         Arvid Ljung \\
-        MSc Machine Learning \\
+        MSc in ML \\
         \href{mailto:arvidlju@kth.se}{arvidlju@kth.se}
     \end{minipage}
     \hfill
     \begin{minipage}[t]{0.24\textwidth}
         \centering
         Matej Priesol \\
-        MSc Machine Learning \\
+        MSc in ML \\
         \href{mailto:priesol@kth.se}{priesol@kth.se}
     \end{minipage}
     \hfill
     \begin{minipage}[t]{0.24\textwidth}
         \centering
         Bailin Lei \\
-        MSc Machine Learning \\
+        MSc in ML \\
         \href{mailto:bailin@kth.se}{bailin@kth.se}
     \end{minipage}
 }
@@ -63,7 +63,9 @@ The full code can be accessed on Github, as a Python Notebook or in PDF format \
 
 To create smooth transitions between the songs, we first needed to extract several features that would help us find the most natural points to start the transition, as well as determine how to best overlap the songs. For most of the features, librosa library was used.
 
-The first thing we looked at was tempo and beat detection. Both of these features were really accurate, and Billie Jean had a little faster BPM (118) than Get Lucky (115) (according to the derived features). This was used to time-stretch the song, in order to create a better sounding transition, where the beats and tempo align.
+The first thing we looked at was tempo and beat detection. This step determines the overall tempo (in beats per minute) and the exact time locations of beats. This was
+
+Both of these features were really accurate, and Billie Jean had a little faster BPM (118) than Get Lucky (115) (according to the derived features). This was used to time-stretch the song, in order to create a better sounding transition, where the beats and tempo align.
 
 Next, we tried to estimate the key of the song. However, key estimation is fairly difficult, so the key detection made some expected mistakes, like confusing B minor and D major as they are relative keys. But for the purpose of pitch matching, the performance was sufficient.
 
@@ -167,9 +169,6 @@ Lastly, the transition was computed specifically to morph song A into song B. Ho
 
 
 
-
-%% CONCLUSION
-\section{Conclusion}
 
 %% REFERENCES
 \bibliographystyle{plainurl}
