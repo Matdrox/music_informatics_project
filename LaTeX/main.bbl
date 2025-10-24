@@ -1,5 +1,15 @@
 \begin{thebibliography}{1}
 
+\bibitem{presentation}
+Group 23.
+\newblock Music information final project.
+\newblock \url{https://docs.google.com/presentation/d/14X8sSxODXMzIS8ulG8ndocpemqtoErjSijx8Le6tjgc/edit?usp=sharing}, 2025.
+
+\bibitem{github_repo}
+Group 23.
+\newblock music\_informatics\_project.
+\newblock \url{https://github.com/Matdrox/music_informatics_project}, 2025.
+
 \bibitem{apple2025}
 Apple.
 \newblock {WWDC 2025 --- June 9}.
@@ -11,11 +21,5 @@ Apple.
 \newblock {Mix Your Favorite Playlists Seamlessly by Adding Your Own Transitions}.
 \newblock Spotify Newsroom press release, \url{https://newsroom.spotify.com/2025-08-19/mix-your-favorite-playlists-seamlessly-by-adding-your-own-transitions/}, 2025.
 \newblock Published August 19, 2025. Accessed on 2025-10-21.
-
-\bibitem{vandeveire2018automateddj}
-Len Vande~Veire and Tijl De~Bie.
-\newblock From raw audio to a seamless mix: creating an automated dj system for drum and bass.
-\newblock {\em EURASIP Journal on Audio, Speech, and Music Processing}, 2018(1):13, 2018.
-\newblock URL: \url{https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-018-0134-8}, \href {https://doi.org/10.1186/s13636-018-0134-8} {\path{doi:10.1186/s13636-018-0134-8}}.
 
 \end{thebibliography}

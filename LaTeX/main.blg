@@ -9,46 +9,46 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: references.bib
 Warning--entry type for "apple2025" isn't style-file defined
---line 23 of file references.bib
-You've used 3 entries,
+--line 37 of file references.bib
+You've used 4 entries,
             2943 wiz_defined-function locations,
-            653 strings with 5795 characters,
-and the built_in function-call counts, 1170 in all, are:
-= -- 122
-> -- 31
+            652 strings with 5742 characters,
+and the built_in function-call counts, 1318 in all, are:
+= -- 131
+> -- 32
 < -- 0
-+ -- 11
++ -- 12
 - -- 8
-* -- 47
-:= -- 185
-add.period$ -- 12
-call.type$ -- 3
-change.case$ -- 13
+* -- 28
+:= -- 204
+add.period$ -- 14
+call.type$ -- 4
+change.case$ -- 16
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 29
-empty$ -- 125
+cite$ -- 4
+duplicate$ -- 30
+empty$ -- 154
 format.name$ -- 8
-if$ -- 313
+if$ -- 365
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 1
-newline$ -- 21
-num.names$ -- 6
-pop$ -- 38
+int.to.str$ -- 4
+missing$ -- 0
+newline$ -- 25
+num.names$ -- 8
+pop$ -- 55
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 12
 quote$ -- 0
-skip$ -- 88
+skip$ -- 105
 stack$ -- 0
-substring$ -- 23
-swap$ -- 5
-text.length$ -- 2
+substring$ -- 20
+swap$ -- 4
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 16
 warning$ -- 0
-while$ -- 7
-width$ -- 4
-write$ -- 39
+while$ -- 8
+width$ -- 5
+write$ -- 45
 (There was 1 warning)

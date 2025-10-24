@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1761071354.84473 "main.aux" "main.bbl" "main" 1761213111.66401 0
-  "./references.bib" 1761071519.22164 4239 19fff1b862b95c6d8d75f57f66f94121 ""
+["bibtex main"] 1761320548.2502 "main.aux" "main.bbl" "main" 1761320548.88482 0
+  "./references.bib" 1761320547.55858 4810 10e83eabfc24dc4e770173d108233d9f ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/urlbst/plainurl.bst" 1741388039 33495 46cfb45e24a877059f9f7e142c7fc61c ""
-  "main.aux" 1761213111.55094 922 ee87d753b17ab940736d70116a087d75 "pdflatex"
+  "main.aux" 1761320548.76675 2033 133f2db90de3e801b5d64ba58415fd73 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761213111.25132 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761213111.66411 0
-  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761213111.19866 2408 4d8f5e25be128606834b0e9b5603ff56 ""
+["pdflatex"] 1761320548.29809 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761320548.88491 0
+  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761320519.87185 10312 a2a3b68bc20b64bfa928e13c72abc60c ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1741388039 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -54,6 +54,7 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/base/size10.clo" 1741388039 8448 5cf247d4bd0c7d5d711bbbdf111fae2e ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1741388039 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1741388039 46850 d87daedc2abdc653769a6f1067849fe0 ""
+  "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/float/float.sty" 1741388039 6749 16d2656a1984957e674b149555f1ea1d ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/geometry/geometry.sty" 1741388039 41601 9cf6c5257b1bc7af01a58859749dd37a ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1741388039 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1741388039 1224 978390e9c2234eab29404bc21b268d1e ""
@@ -79,11 +80,15 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "main.aux" 1761213111.55094 922 ee87d753b17ab940736d70116a087d75 "pdflatex"
-  "main.bbl" 1761071354.89616 1018 3f8bb0c7d9263203a177c0ce1215481d "bibtex main"
-  "main.out" 1761213111.5514 551 c34a342565c7da3bb3cc87fa1530708e "pdflatex"
-  "main.tex" 1761213111.19866 2408 4d8f5e25be128606834b0e9b5603ff56 ""
-  "main.toc" 1761213111.55155 346 1d84b8268817bce672349ee9582bc8c6 "pdflatex"
+  "figures/beat_tracking.png" 1761318351.67141 101091 a54917b87e7bcb62f359101b56b07709 ""
+  "figures/energy.png" 1761318351.67929 60712 b093d1d595dac39f9e192bddf2283f21 ""
+  "figures/spectogram.png" 1761319536.17266 444773 ef97a6a8b413e7ac49609a0d98d40b39 ""
+  "figures/transition.png" 1761318351.6893 233819 fa7e1fbda48f95fc9ffe2430c1ae43e8 ""
+  "main.aux" 1761320548.76675 2033 133f2db90de3e801b5d64ba58415fd73 "pdflatex"
+  "main.bbl" 1761320548.29658 919 e57aef88c84f210b6c0499575af0b686 "bibtex main"
+  "main.out" 1761320548.76727 912 8616c0b21f10b187efdcb1d1d922df8e "pdflatex"
+  "main.tex" 1761320519.87185 10312 a2a3b68bc20b64bfa928e13c72abc60c ""
+  "main.toc" 1761320548.76741 510 3a06799d77f67fb199359aa49abb9f40 "pdflatex"
   (generated)
   "main.aux"
   "main.log"
