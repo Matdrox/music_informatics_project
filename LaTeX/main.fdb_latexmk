@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1761320890.16523 "main.aux" "main.bbl" "main" 1761320890.86358 0
+["bibtex main"] 1761321125.69755 "main.aux" "main.bbl" "main" 1761321126.32748 0
   "./references.bib" 1761320547.55858 4810 10e83eabfc24dc4e770173d108233d9f ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/bibtex/bst/urlbst/plainurl.bst" 1741388039 33495 46cfb45e24a877059f9f7e142c7fc61c ""
-  "main.aux" 1761320890.74817 1926 6daf6c8c763d97fdcc09443fba1fb61a "pdflatex"
+  "main.aux" 1761321126.21233 1828 e6d83471d971881425cecde319b8fc6b "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761320890.21996 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761320890.86369 0
-  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761320889.24181 10351 49c353a73452372797922fb2421281b2 ""
+["pdflatex"] 1761321125.74722 "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" "main.pdf" "main" 1761321126.32757 0
+  "/Users/mateicananau/Projects/KTH/Music Informatics/Project/LaTeX/main.tex" 1761321124.96803 10513 e290100b8e05f6d759e4cb79444b22df ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1741388039 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1741388039 5466553 2748998d7db8078826afa1f272036265 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1741388039 1004 54797486969f23fa377b128694d548df ""
@@ -74,15 +74,15 @@
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/tex/latex/url/url.sty" 1741388039 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-dist/web2c/texmf.cnf" 1741388039 42151 79f67285bdd95beca4d137b380b4b9e5 ""
   "/opt/homebrew/Cellar/texlive/20250308_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1741388039 3346141 1288109d02d1c772df65535881471649 ""
-  "figures/beat_tracking.png" 1761318351.67141 101091 a54917b87e7bcb62f359101b56b07709 ""
-  "figures/energy.png" 1761318351.67929 60712 b093d1d595dac39f9e192bddf2283f21 ""
+  "figures/beat_tracking_bj.png" 1761320981.83059 99028 0c31f1922fdb0d997f48b101d9f51f79 ""
+  "figures/beat_tracking_gl.png" 1761321010.73807 117021 66d2dcf453ec05ebcc4dd1790a0a230e ""
   "figures/spectogram.png" 1761319536.17266 444773 ef97a6a8b413e7ac49609a0d98d40b39 ""
   "figures/transition.png" 1761318351.6893 233819 fa7e1fbda48f95fc9ffe2430c1ae43e8 ""
-  "main.aux" 1761320890.74817 1926 6daf6c8c763d97fdcc09443fba1fb61a "pdflatex"
-  "main.bbl" 1761320890.21847 919 e57aef88c84f210b6c0499575af0b686 "bibtex main"
-  "main.out" 1761320890.74867 819 c57f57ec9cb908e98cd185bac43121a2 "pdflatex"
-  "main.tex" 1761320889.24181 10351 49c353a73452372797922fb2421281b2 ""
-  "main.toc" 1761320890.74882 444 7ce605c75e1e045d00c9e85e660d45d0 "pdflatex"
+  "main.aux" 1761321126.21233 1828 e6d83471d971881425cecde319b8fc6b "pdflatex"
+  "main.bbl" 1761321125.74571 919 e57aef88c84f210b6c0499575af0b686 "bibtex main"
+  "main.out" 1761321126.21296 819 c57f57ec9cb908e98cd185bac43121a2 "pdflatex"
+  "main.tex" 1761321124.96803 10513 e290100b8e05f6d759e4cb79444b22df ""
+  "main.toc" 1761321126.21313 444 7ce605c75e1e045d00c9e85e660d45d0 "pdflatex"
   (generated)
   "main.aux"
   "main.log"

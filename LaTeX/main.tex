@@ -63,13 +63,11 @@ The full code can be accessed on Github, as a Python Notebook or in PDF format \
 
 To create smooth transitions between the songs, we first needed to extract several features that would help us find the most natural points to start the transition, as well as determine how to best overlap the songs. For most of the features, librosa library was used.
 
-The first thing we looked at was tempo and beat detection. This step determines the overall tempo (in beats per minute) and the exact time locations of beats. This was
+The first thing we looked at was tempo and beat detection. This step determines the overall tempo (in beats per minute) and the exact time locations of beats. Both of these features were really accurate, and Billie Jean had a little faster BPM (118) than Get Lucky (115) (according to the derived features). This was later used to time-stretch the song, in order to create a better sounding transition, where the beats and tempo align.
 
-Both of these features were really accurate, and Billie Jean had a little faster BPM (118) than Get Lucky (115) (according to the derived features). This was used to time-stretch the song, in order to create a better sounding transition, where the beats and tempo align.
+Next, we tried to estimate the key of the song. However, key estimation is fairly difficult, so the key detection made some expected mistakes, like confusing B minor and D major as they are relative keys. But for the purpose of pitch matching, the performance was sufficient. This detection method analyzed the average chroma profile and compared the result with major and minor key templates, to determine the most likely one.
 
-Next, we tried to estimate the key of the song. However, key estimation is fairly difficult, so the key detection made some expected mistakes, like confusing B minor and D major as they are relative keys. But for the purpose of pitch matching, the performance was sufficient.
-
-We also compute the Root Mean Square (RMS) energy of each song. This shows us the power of the song over time. We use this to 
+We also compute the Root Mean Square (RMS) energy of each song. This quantifies the amplitude of the signal over time, providing an estimate of the power/loudness of the song. 
 
 
 \section{Transition scoring and generating outputs}
@@ -98,14 +96,9 @@ Nevertheless, subjective perception remained the most important criterion. Multi
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=\textwidth]{figures/beat_tracking.png}
-    \caption{Beat tracking.}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\textwidth]{figures/energy.png}
-    \caption{Energy over time.}
+    \includegraphics[width=\textwidth]{figures/beat_tracking_bj.png}
+    \includegraphics[width=\textwidth]{figures/beat_tracking_gl.png}
+    \caption{Beat tracking for Billie Jean and Get Lucky.}
 \end{figure}
 
 \begin{figure}[H]
